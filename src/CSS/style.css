@@ -1,6 +1,39 @@
-.redDiv
+.blackdiv
 {
-	background-color: red;
-	width: 100px;
-	height: 100px;
+	background-color: black;
+	width: 25px;
+	height: 50px;
+}
+
+.hidden
+{
+	display: none;	
+}
+
+.firstcol
+{
+	position: absolute;
+	top: 0px;
+	left: 0px;
+}
+
+.secondcol
+{
+	position: absolute;
+	top: 0px;
+	left: 100px;	
+}
+
+.thirdcol
+{
+	position: absolute;
+	top: 0px;
+	left: 200px;	
+}
+
+.fourthcol
+{
+	position: absolute;
+	top: 0px;
+	left: 300px;	
 }
